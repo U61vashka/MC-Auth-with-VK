@@ -43,7 +43,7 @@
         <!-- Configuration -->
         <configuration-library.version>4.0.2</configuration-library.version>
         <configurate.version>4.1.2</configurate.version>
-        <yaml-config-updater.version>1.4.2</yaml-config-updater.version>
+        <yaml-config-updater.version>1.4.4</yaml-config-updater.version>
 
         <!-- Command -->
         <lamp.version>3.1.8</lamp.version>
