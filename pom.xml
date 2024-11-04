@@ -50,7 +50,7 @@
         <lamp-vk.version>1.0.0</lamp-vk.version>
         <lamp-telegram.version>1.0.0</lamp-telegram.version>
 
-        <telegram-api.version>6.9.1</telegram-api.version>
+        <telegram-api.version>7.11.0</telegram-api.version>
         <jda.version>5.0.0-beta.24</jda.version>
         <vk-api.version>0.4.2</vk-api.version>
 
