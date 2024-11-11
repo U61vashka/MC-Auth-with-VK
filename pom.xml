@@ -51,7 +51,7 @@
         <lamp-telegram.version>1.0.0</lamp-telegram.version>
 
         <telegram-api.version>6.9.1</telegram-api.version>
-        <jda.version>5.0.0-beta.24</jda.version>
+        <jda.version>5.2.1</jda.version>
         <vk-api.version>0.4.2</vk-api.version>
 
         <bungeecord.version>1.20-R0.2</bungeecord.version>
